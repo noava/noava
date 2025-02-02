@@ -30,15 +30,16 @@
 **Other**
 ![Notion](https://img.shields.io/badge/Notion-234.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-234.svg?style=for-the-badge&logo=jira&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-234.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-234.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-234.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-# I love Music
+# I love Music!
+I listen to music while coding, here is what I am listening to at the moment:
 
-╔════════════════╗
-┃ ▁▂▃▅▆▇ 100% . . . . |
-╚════════════════╝
-♫ Moon Man ♫ by Bulu Brigada
+╔════════════════╗  
+┃ ▁▂▃▅▆▇ 100% . . . . |  
+╚════════════════╝  
+♫ Santa Monica by Wells* ♫  
 
-0:35 ━━❍──────── -3:25
-↻ . . . . . . . ⊲ Ⅱ ⊳ . . . . . . . ↺
+0:35 ━━❍──────── -3:25  
+↻ . . . . . . . ⊲ Ⅱ ⊳ . . . . . . . ↺  
 
 # 📊 GitHub Stats:
 
