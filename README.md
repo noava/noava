@@ -1,16 +1,16 @@
 # 💫 Niklas
 
-- I have a Bachelor in Computer Engineer with passion for Web Development and Design.
+- I have a Bachelor in Computer Engineer with a passion for Web Development and Design.
 - I like expanding my skillset by working on multiple projects. Including Web development, Game development, and Graphic Design.
 - See all my projects on my [Portfolio](https://noava.dev/)
 
 ## 💻 Tech Tools:
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/javascript-234.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-234.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-234?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-234.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-234.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-234.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-234.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-234.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-234?style=for-the-badge&logo=python&logoColor=white) ![GO](https://img.shields.io/badge/go-234.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-234.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/c%23-234.svg?style=for-the-badge&logo=cshrp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-234.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-234.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-234.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 **JS Frameworks, Platforms & Libraries:**  
-![Vue.js](https://img.shields.io/badge/vue.js-234.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/nuxt.js-234.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-234.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-234?style=for-the-badge&logo=bun&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-234.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/nuxt.js-234.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-234.svg?style=for-the-badge&logo=flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-234.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-234?style=for-the-badge&logo=bun&logoColor=white)
 
 **CSS Framework/Library/Pre-processors:**  
 ![SASS](https://img.shields.io/badge/SASS-234.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-234.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-234?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -47,4 +47,4 @@
 
 ---
 
-Thanks for scrolling through my Profile! :orange_heart:
+Thanks for scrolling through my Profile! Hopefully you found some of my projects interesting! :orange_heart:
